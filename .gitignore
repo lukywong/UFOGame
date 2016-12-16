@@ -6,3 +6,7 @@ Library/ScriptAssemblies/*
 Library/ShaderCache
 Library/assetDatabase3
 Library/metadata/*
+Library/*.dwlt
+Library/LastSceneManagerSetup.txt
+Library/expandedItems
+*.userprefs
