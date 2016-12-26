@@ -10,3 +10,4 @@ Library/*.dwlt
 Library/LastSceneManagerSetup.txt
 Library/expandedItems
 *.userprefs
+*.meta
