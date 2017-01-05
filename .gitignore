@@ -2,12 +2,5 @@
 .DS_Store
 obj
 Temp
-Library/ScriptAssemblies/*
-Library/ShaderCache
-Library/assetDatabase3
-Library/metadata/*
-Library/*.dwlt
-Library/LastSceneManagerSetup.txt
-Library/expandedItems
+Library
 *.userprefs
-*.meta
