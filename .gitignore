@@ -1,6 +1,8 @@
-*.log
-.DS_Store
+Library
 obj
 Temp
-Library
+.DS_Store
 *.userprefs
+*.suo
+*.csproj
+*.sln
